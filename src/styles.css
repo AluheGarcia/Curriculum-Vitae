@@ -1,0 +1,23 @@
+#fotomia{width: 300px;height: 300px; border-radius: 100%;}
+body{font-size: small;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+li{list-style: none ;}
+#sobreMi{font-size: x-large; text-align: center; padding-top: 2%;}
+body{background-color: black; }
+
+header{ text-align: center;padding: 5%; margin: 0px;}
+header p{text-align: left; font-size: large;}
+li p{font-size: large; padding: 0px;}
+#exp{text-align: left; padding: 5%;}
+div h3{padding: 3%;}
+.tituloexp{padding-top: 3%;}
+li p a{ color: #d8dec3;}
+
+#colContacto{text-align: center; margin: 0px; padding: 2%; background-color:#ff6161;color: #f4f8e6;}
+#col1{background-color:#d8dec3;color:#4a3d3d;}
+#col2{text-align: center;background-color: #4a3d3d;color: #d8dec3;}
+
+footer{color: #d8dec3;background-color: #ff6161;}
+footer img{width: 200px;}
+#footer{padding: 0px;}
+#footer a{color: #4a3d3d; text-decoration: none; font-size: large;color: #f4f8e6;}
+#footer li{padding-top: 3%;padding-left: 10%;font-size: xx-large;}
